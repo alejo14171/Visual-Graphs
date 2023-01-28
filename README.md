@@ -1,5 +1,5 @@
 # Visual-Graphs
-Visual graphs is a Python 3.9+ application that let you create nodes and arists for making a graph. Also, it ley you verify if the graph is bipartite, connected, eulerian, amog others. Last but not least, An heuristic is implemented for coloring the nodes of the graph.
+Visual graphs is a Python 3.9+ application that let you create nodes and arists for making a graph. Also, it let you verify if the graph is bipartite, connected, eulerian, among others. Last but not least, An heuristic is implemented for coloring the nodes of the graph.
 
 # How does it work
 Visual-Graphs work on Tkinter using an educational graphics library called graphics (from Jhon Zelle: graphics.pdf (wartburg.edu))
